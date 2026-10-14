@@ -6,7 +6,7 @@
 
 ## 📷 Demonstração
 
-![Preview do Projeto](./Assets/preview.png)
+![Preview do Projeto](./Assets/Site%20casino0.png)
 
 
 ## 🚀 Tecnologias Utilizadas
