@@ -6,7 +6,7 @@
 
 ## 📷 Demonstração
 
-![Preview do Projeto](./assets/preview.png)
+![Preview do Projeto](./Assets/preview.png)
 
 
 ## 🚀 Tecnologias Utilizadas
