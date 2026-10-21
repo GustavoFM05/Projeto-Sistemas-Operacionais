@@ -24,3 +24,4 @@
 - [x] Interface intuitiva
 - [x] Estrutura organizada
 - [x] Suporte para navegação em dispositivos móveis
+- [x] QR-Code de geração automática para acesso **VIP**
